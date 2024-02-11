@@ -1,3 +1,6 @@
 hanshul
 hii
+<<<<<<< HEAD
 hlos.
+=======
+>>>>>>> newBranch
