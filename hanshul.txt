@@ -6,3 +6,4 @@ hlos.
 >>>>>>> newBranch
 hiiiii
 !!!!!
+hello jiii
