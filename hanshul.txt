@@ -1,6 +1,7 @@
 hanshul
 <<<<<<< HEAD
 first commit 
+<<<<<<< HEAD
 second commits
 third commit
 =======
@@ -13,3 +14,6 @@ hiiiii
 !!!!!
 hello jiii
 >>>>>>> b91ddb85ec42698815eb4301aa2c3dec4b7958d6
+=======
+second commit
+>>>>>>> parent of 6598f35 (commited)
