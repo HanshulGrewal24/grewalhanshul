@@ -1,6 +1,2 @@
 hanshul
-hii
-<<<<<<< HEAD
-hlos.
-=======
->>>>>>> newBranch
+first commit 
